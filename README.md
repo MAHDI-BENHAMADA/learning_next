@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Project Overview
+
+This project is for learning the basics of Next.js. I'm following this tutorial: [https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=603s](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=603s)
+
 ## Getting Started
 
 First, run the development server:
