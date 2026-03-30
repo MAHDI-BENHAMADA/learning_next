@@ -1,10 +1,16 @@
+"use client";
+
 import Image from "next/image"; 
 import Link from "next/link"
 import ProductCard from "./users/components/ProductCard";
+
+
+
 export default function Home() {
   return (
     <main><h1>Welcome to Next.js!</h1>
     <Link href="/users">Users</Link>
+    <p>{new Date().toLocaleTimeString()}</p> 
     <ProductCard />
     </main>
   );
