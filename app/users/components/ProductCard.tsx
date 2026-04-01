@@ -6,7 +6,7 @@ import styles from './ProductCard.module.css'
 
 const ProductCard = () => {
   return (
-    <div className={styles.card}>
+    <div className='p-4 border rounded-lg shadow-md'>
      <AddToCart/>
     </div>
   )
